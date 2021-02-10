@@ -1,0 +1,9 @@
+/* External styling from: https://codepen.io/manikoth/pen/NNNBYe.css
+ */
+/* Doodle Stage */
+#stage {
+  background: blue;
+
+  height: 300px;
+  width: 600px;
+}
