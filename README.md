@@ -11,8 +11,3 @@ https://www.figma.com/file/xkyNON2GkaT7gRk4jIXUPb/Google-Doodle?node-id=0%3A1
 Long Table:
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/itim2101" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-Open Window
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-Background Photo
-https://wallpapercave.com/halloween-wallpaper-background
